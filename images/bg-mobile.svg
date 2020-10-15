@@ -1,0 +1,35 @@
+<svg width="375" height="373" xmlns="http://www.w3.org/2000/svg">
+ <defs>
+  <linearGradient id="a" y2="110.015%" x2="-5.513%" y1="-103.001%" x1="221.401%">
+   <stop offset="0%" stop-color="#FF52C1"/>
+   <stop offset="7.3%" stop-color="#F952C5"/>
+   <stop offset="100%" stop-opacity="0" stop-color="#9952FF"/>
+  </linearGradient>
+  <linearGradient id="c" y2="145.591%" x2="145.861%" y1="5.006%" x1="21.681%">
+   <stop offset="0%" stop-color="#FF52C1"/>
+   <stop offset="100%" stop-color="#9952FF"/>
+  </linearGradient>
+  <linearGradient id="svg_1" y2="110.015%" x2="NaN" y1="-106.466%" x1="NaN">
+   <stop offset="0%" stop-color="#FF52C1"/>
+   <stop offset="0%" stop-color="#F952C5"/>
+   <stop offset="100%" stop-opacity="0" stop-color="#9952FF"/>
+  </linearGradient>
+ </defs>
+ <g>
+  <title>background</title>
+  <rect fill="#674baf" id="canvas_background" height="375" width="377" y="-1" x="-1"/>
+ </g>
+ <g>
+  <title>Layer 1</title>
+  <g id="svg_2" fill-rule="evenodd" fill="none">
+   <path id="svg_3" d="m0,265.7l319.689,-265.7l55.311,0l0,73.607l-375,240.057l0,-47.964z" fill="url(#a)"/>
+   <path id="svg_4" d="m375,318.687l-375,-216.687l0,119.176l375,139.052l0,-41.541z" fill="url(#svg_1)"/>
+   <rect id="svg_5" rx="3" height="28" width="28" y="166.799" x="318.799" transform="rotate(45 332.79901123046875,180.7989959716797) " opacity="0.558" fill="url(#c)"/>
+   <rect id="svg_6" rx="1" height="9" width="9" y="361.864" x="117.864" transform="rotate(45 122.36399841308611,366.36401367187494) " opacity="0.387" fill="url(#c)"/>
+   <rect id="svg_7" rx="1" height="18" width="18" y="335.728" x="155.728" transform="rotate(45 164.72799682617193,344.7279968261718) " opacity="0.387" fill="url(#c)"/>
+   <rect id="svg_8" rx="1" height="14" width="14" y="79.899" x="132.728" transform="rotate(45 139.72799682617188,86.90000152587892) " opacity="0.387" fill="url(#c)"/>
+   <rect id="svg_9" rx="1" height="17" width="17" y="335.521" x="316.521" transform="rotate(45 325.0199890136718,344.01998901367193) " opacity="0.387" fill="url(#c)"/>
+   <rect id="svg_10" rx="3" height="42" width="42" y="261.497" x="42.598" transform="rotate(45 63.59799957275394,282.49700927734375) " opacity="0.503" fill="url(#c)"/>
+  </g>
+ </g>
+</svg>
